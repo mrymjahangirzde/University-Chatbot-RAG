@@ -1,0 +1,10 @@
+streamlit
+numpy
+requests
+chromadb
+sentence-transformers
+langchain
+torch
+transformers
+huggingface-hub
+scikit-learn
